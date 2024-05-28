@@ -1,0 +1,12 @@
+
+.ticket{
+    border: 1px solid pink;
+    border-radius: 14px;
+}
+.won{
+    color: rgb(74, 251, 74);
+}
+.bt{
+    background: rgb(25, 196, 136);
+    color: rgb(83, 12, 176);
+}
