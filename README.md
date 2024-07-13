@@ -1,3 +1,8 @@
+
+Hello, You buy the ticket and as your luck you won ,
+now you want to play click on the link andd enjoy it
+**https://lotterygame017.netlify.app/**
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
