@@ -1,7 +1,7 @@
 
 Hello, You buy the ticket and as your luck you won ,
 now you want to play click on the link andd enjoy it
-**https://lotterygame017.netlify.app/**
+**https://lotterygame017.netlify.app/** 
 
 # React + Vite
 
